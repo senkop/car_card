@@ -1,0 +1,19 @@
+name: car_card
+description: A Flutter package that provides a customizable card widget to display device information, including status, last seen time, and more.
+version: 0.0.1
+author: Senkop <https://github.com/senkop>
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_screenutil: ^5.0.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
